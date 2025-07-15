@@ -17,8 +17,8 @@ I’m Andrés Chavez — Recovery Support Peer Specialist, visionary founder of 
 ### 🔹 Recovery Haven
 An AI-enhanced recovery platform providing secure check-ins, peer-to-peer support, and blockchain-backed progress tracking. Designed with **real people** in mind — built on **trust, healing, and tech**.
 
-### 🔹 Daily Haven App
-A mobile check-in tool offering trauma-informed affirmations, AI-powered encouragement, and seamless peer support. Created for those walking out of darkness — one day at a time.
+🔹 **Daily Haven App**  
+A mobile check-in tool (kiosk + app) that helps participants reflect, track progress, and earn token-based rewards for showing up daily.
 
 ### 🔹 12x12x12 AI Learning Model
 A peer-led AI literacy journey:

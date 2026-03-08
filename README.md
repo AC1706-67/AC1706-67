@@ -1,64 +1,88 @@
-# 👋 Welcome to My World  
-**Anonymous Haven.AI | Multiple Hats, One Mission**  
+
+# Andrés F. Chávez
+
+**Founder — [Anonymous Haven](https://anonymoushaven.ai)**  
+Peer Lead, Opioid Drop-In Center · Recovery Alliance El Paso  
+Member, Technology Committee · Paseo del Norte ROSC  
+El Paso, TX
 
 ---
 
-## 🙋🏽‍♂️ About Me  
-I’m **Andrés F. Chavez** — Recovery Support Peer Specialist (RSPS) & MHPS Intern  
-Co-Founder — *El Paso MARA*  
-Advisory Board Member — *Lograr Salud Collective*  
-Head Chair, Technology Committee — *Paseo del Norte ROSC*  
-
-> “I used to be called a problem. Now I build solutions.”  
-
-I believe in second chances, grace, and technology that heals.  
+> *I started this work because I saw myself in the people I serve.*  
+> *I started building because no one else was building it for us.*
 
 ---
 
-## 🚀 What I’m Building  
+## What I'm Building
 
-**Anonymous Haven.AI** — a faith-forward recovery ecosystem.  
-- **Anonymous Haven App** — daily check-ins, peer support, and blockchain tracking  
-- **ODC Overdose Tracker** — built for Proyecto Centro Salvavida  
-- **Fiscal Year Metrics Tracker** — internal tool for grant metrics  
-- **BioReceipt.AI** — health & behavior analytics reimagined  
+**Anonymous Haven** is a recovery technology platform — built from lived experience, designed for every person in the recovery ecosystem.
+
+Not one app. A full stack. Four layers. One mission.
 
 ---
 
-## 🛠 Tech Stack & Tools  
-Supabase • TypeScript • React Native • Solidity • LLaMA • GitHub Copilot • Filecoin • zkEVM • Celo • Polygon ID  
+### 🏠 The Platform
 
-Currently learning: Biometric auth, advanced AI health integration  
-
----
-
-## 🌱 Vision & Roadmap  
-- Build **The Recovery Commons** — a shared infrastructure for recovery orgs  
-- Launch **12×12×12 AI Learning Model** — 12 hours to explore, 12 days to learn, 12 weeks to build  
-- Pass the torch in 12 years to next-gen peer-tech leaders  
-
----
-## 🤝 Want to Collaborate?
-I’m open to peer support tech, AI for mental health, faith-inclusive recovery tools, and social-impact builders.  
-Let’s build this together.
-
-## 🔗 Connect
-- 🐦 Twitter/X: [@AnonymousHavenX](https://twitter.com/AnonymousHavenX)
-- 🌐 Website: https://anonymoushaven.ai *(under development)*
-- 💻 GitHub: [AC1706-67](https://github.com/AC1706-67)
-- 🧠 Hugging Face: [MRV-AI](https://huggingface.co/MRV-AI)
-- 💼 LinkedIn: [Andrés Chavez](https://www.linkedin.com/in/andres-chavez-46a942320)
-- 🤲 Giveth: [Anonymous Haven / Recovery Haven](https://giveth.io/project/recovery-haven-app)
+| Layer | Project | What It Does | Status |
+|---|---|---|---|
+| **The Individual** | Anonymous Haven App | Daily check-ins, peer SOS, recovery education, connection to services — no identity required | 🔨 In Design |
+| **MI Training** | [Zeke AI](https://github.com/AC1706-67/EEZK-AI) | AI-powered Motivational Interviewing trainer for peer specialists — GPRA/BARC tracking, note support | 🔨 Active Dev |
+| **Peer Coordination** | [L.O.G.](https://github.com/AC1706-67/L.O.G.) | AI-powered peer recovery management — SUPRT-C & BARC-10 assessments, Amazon Nova | 🔨 Active Dev |
+| **Field Operations** | [Compassionate Log](https://github.com/AC1706-67/ODC-overdose-tracker) | Overdose response, Narcan distribution, outreach tracking, multi-org | ✅ Most Complete |
+| **Personal Health** | [BioReceipt.AI](https://github.com/AC1706-67/bioreceipt.ai) | Substance logging, AI health insights, offline-first personal tracker | 🔨 Active Dev |
 
 ---
 
-## 🙏 Final Word
+### 🪙 MANO Token *(In Development)*
 
-I’m not a developer by training.  
-I started out **tech illiterate**, using AI just to help me type.  
-Now I’m building tools that might change the way the recovery world works.
+**Mi Alma Nunca Olvidó** — a soulbound recovery credential.
 
+Non-transferable. Tamper-proof. Zero-knowledge verified.  
+Earned through recovery milestones. Redeemable for real-world outcomes.
 
+> *What if the work you did in recovery could follow you —  
+> not as a file in a bureaucrat's drawer,  
+> but as something you own. Something nobody can take away.*
+
+Milestones → Employment vouchers · Housing access · Education scholarships · Reentry rights  
+Infrastructure → Polygon ID · Zero-knowledge proofs · Verifiable without exposing identity
+
+---
+
+### 🌐 The Long Vision — RecoveryVerse
+
+Anonymous Haven is designed to grow into a decentralized recovery ecosystem:
+
+- Virtual recovery meetings and peer support matching
+- Decentralized identity for recovery services
+- Platform access for detox centers, sober homes, MAT programs, faith-based orgs, prisons
+- Global recovery community connections
+- Community-funded through Web3 public goods (live on [Giveth](https://giveth.io/project/recovery-haven-app))
+
+---
+
+## Stack
+
+`React Native` · `TypeScript` · `Supabase` · `Amazon Bedrock / Nova` · `Expo`  
+`PostgreSQL` · `AWS` · `Polygon ID` · `HIPAA` · `42 CFR Part 2`
+
+Self-taught. Started with AI-assisted coding about a year and a half ago.  
+Still learning. Still building. Not stopping.
+
+---
+
+## Connect
+
+- 🌐 [anonymoushaven.ai](https://anonymoushaven.ai) *(launching soon)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/andres-chavez-46a942320)
+- 🐦 [X / Twitter](https://twitter.com/AnonymousHavenX)
+- 🤗 [Hugging Face](https://huggingface.co/MRV-AI)
+- 🤲 [Support on Giveth](https://giveth.io/project/recovery-haven-app)
+
+---
+
+*Building at the intersection of recovery, technology, and faith —  
+for the people the system forgot to design for.*
 
 <!--
 **AC1706-67/AC1706-67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
